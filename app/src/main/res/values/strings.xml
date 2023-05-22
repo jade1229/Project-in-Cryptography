@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AES_FinalProject</string>
+    <string name="insert_text_here" />
+    <string name="output_here" />
+    <string name="decrypt" />
+    <string name="decrypt1">Decrypt</string>
+</resources>
